@@ -1,6 +1,6 @@
 {
-    "name": "tymon/jwt-auth",
-    "description": "JSON Web Token Authentication for Laravel 4 and 5",
+    "name": "jrtransit/jwt-auth",
+    "description": "JSON Web Token Authentication for Laravel and Lumen",
     "keywords": [
         "jwt",
         "auth",
@@ -16,6 +16,12 @@
             "name": "Sean Tymon",
             "email": "tymon148@gmail.com",
             "homepage": "http://tymondesigns.com",
+            "role": "Developer"
+        },
+        {
+            "name": "YUQI",
+            "email": "yuqi@zhangzhongyun.com",
+            "homepage": "https://www.joyread.com",
             "role": "Developer"
         }
     ],
