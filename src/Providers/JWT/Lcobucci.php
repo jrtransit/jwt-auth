@@ -219,6 +219,7 @@ class Lcobucci extends Provider implements JWT
     private function usePackageV4()
     {
         $version = InstalledVersions::getPrettyVersion('lcobucci/jwt');
+
         return version_compare($version, '5.0.0', '<');
     }
 
